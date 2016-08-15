@@ -30,23 +30,23 @@
 			background-position: 50% 50%;
 		}
 		#section0{
-			background-image: url(../img/Op01.jpg);
+			background-image: url(../images/Op01.jpg);
 			color: #fff;
 			text-shadow:1px 1px 1px #333;
 		}
 		#section1{
 			color: #fff;
 			text-shadow:1px 1px 1px #333;
-			background-image: url(../img/Op02.jpg);
+			background-image: url(../images/Op02.jpg);
 		}
 		#section2{
-			background-image: url(../img/Op03.jpeg);
+			background-image: url(../images/Op03.jpeg);
 			color: #fff;
 			text-shadow:1px 1px 1px #666;
 		}
 		#section3{
 			color: #008283;
-			background-image: url(../img/bizhi01.png);
+			background-image: url(../images/bizhi01.png);
 			text-shadow:1px 1px 1px #fff;
 		}
 		#section0 p{
